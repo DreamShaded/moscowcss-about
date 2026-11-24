@@ -1,0 +1,9 @@
+import{$ as e,E as t,Q as n,W as r,_ as i,_t as a,b as o,v as s,x as c,yt as l,z as u}from"./modules/shiki-CO5W6Bpt.js";import{t as d}from"./default-9J_pVU5R.js";import{nt as f,rt as p,yt as m}from"./index-C7eMskz9.js";var h={class:`mc-rule`},g=m({__name:`6_values.md__slidev_13`,setup(m){let{$slidev:g,$nav:_,$clicksContext:v,$clicks:y,$page:b,$renderContext:x,$frontmatter:S}=p();return v.setup(),(p,m)=>{let g=r(`click`);return u(),s(d,l(t(a(f)(a(S),12))),{default:n(()=>[m[16]||=i(`h1`,null,`Наши ценности`,-1),i(`pre`,h,[i(`code`,null,[m[7]||=i(`span`,{class:`mc-rule__sel`},`.moscow-css`,-1),m[8]||=c(` {
+`,-1),e((u(),o(`span`,null,[...m[0]||=[c(`  `,-1),i(`b`,null,`access`,-1),c(`: open;           `,-1),i(`i`,null,`/* открытость: вход для всех и бесплатно */`,-1)]])),[[g]]),m[9]||=c(`
+`,-1),e((u(),o(`span`,null,[...m[1]||=[c(`  `,-1),i(`b`,null,`safety`,-1),c(`: guaranteed;     `,-1),i(`i`,null,`/* безопасно спросить и ошибиться */`,-1)]])),[[g]]),m[10]||=c(`
+`,-1),e((u(),o(`span`,null,[...m[2]||=[c(`  `,-1),i(`b`,null,`hierarchy`,-1),c(`: none;        `,-1),i(`i`,null,`/* дизайн-директор и стажёр — на равных */`,-1)]])),[[g]]),m[11]||=c(`
+`,-1),e((u(),o(`span`,null,[...m[3]||=[c(`  `,-1),i(`b`,null,`support`,-1),c(`: always;        `,-1),i(`i`,null,`/* поддержка до сцены и после */`,-1)]])),[[g]]),m[12]||=c(`
+`,-1),e((u(),o(`span`,null,[...m[4]||=[c(`  `,-1),i(`b`,null,`exchange`,-1),c(`: both-ways;    `,-1),i(`i`,null,`/* обмен опытом: дизайн ⇄ код */`,-1)]])),[[g]]),m[13]||=c(`
+`,-1),e((u(),o(`span`,null,[...m[5]||=[c(`  `,-1),i(`b`,null,`memory`,-1),c(`: persistent;     `,-1),i(`i`,null,`/* архив и база знаний на сайте */`,-1)]])),[[g]]),m[14]||=c(`
+`,-1),e((u(),o(`span`,null,[...m[6]||=[c(`  `,-1),i(`b`,null,`launch`,-1),c(`: first-stage;    `,-1),i(`i`,null,`/* площадка для старта */`,-1)]])),[[g]]),m[15]||=c(`
+}`,-1)])])]),_:1},16)}}},[[`__scopeId`,`data-v-c69c9477`]]);export{g as default};
